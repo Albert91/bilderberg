@@ -3,7 +3,7 @@
   location: "Vaals"
   tagline: "SPROOKJESACHTIG 4-STERREN HOTEL "
   image: "vaalsbroek1.jpg"
-  link: "http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=244&country=1&la=2&actie=BB-gP2cj&autoLogin=true"
+  link: "http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=244&country=1&la=2&autoLogin=true&actie="
   points:
     - "1 Nacht incl. ontbijt voor 2 pers"
     - "Fles champenoise"
@@ -13,7 +13,7 @@
   location: "Oosterbeek"
   tagline: "SPROOKJESACHTIG 4-STERREN HOTEL"
   image: "bilderberg1.jpg"
-  link: "http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=451&country=1&la=2&actie=BB-gP2cj&autoLogin=true"
+  link: "http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=451&country=1&la=2&autoLogin=true&actie="
   points:
     - "2 Nachten incl. ontbijt voor 2 pers"
     - "3-Gangendiner voor 2 pers"
@@ -23,7 +23,7 @@
   location: "Tegelen"
   tagline: "BOURGONDISCH GENIETEN"
   image: "chateauholtmuhle1.jpg"
-  link: "http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=461&country=1&la=2&actie=BB-gP2cj&autoLogin=true"
+  link: "http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=461&country=1&la=2&autoLogin=true&actie="
   points:
     - "1 Nacht incl. ontbijt voor 2 pers"
     - "4-Gangendiner voor 2 pers"
@@ -33,7 +33,7 @@
   location: "Garderen"
   tagline: "QUALITY TIME & ONTSPANNING"
   image: "residence1.jpg"
-  link: "http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=379&country=1&la=2&actie=BB-gP2cj&autoLogin=true"
+  link: "http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=379&country=1&la=2&autoLogin=true&actie="
   points:
     - "2 Nachten incl. ontbijt voor 2 pers"
     - "Wellnessentree"
@@ -43,7 +43,7 @@
   location: "Zwolle"
   tagline: "ONTDEK CENTRUM ZWOLLE"
   image: "wientjes1.jpg"
-  link: "http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=361&country=1&la=2&actie=BB-gP2cj&autoLogin=true"
+  link: "http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=361&country=1&la=2&autoLogin=true&actie="
   points:
     - "1 Nacht incl. ontbijt voor 2 pers"
     - "3-Gangendiner voor 2 pers"
@@ -53,7 +53,7 @@
   location: "Beetsterzwaag"
   tagline: "FRIESLAND OP Z'N BEST"
   image: "lAUSWOLT1.jpg"
-  link: "http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=494&country=1&la=2&actie=BB-gP2cj&autoLogin=true"
+  link: "http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=494&country=1&la=2&autoLogin=true&actie="
   points:
     - "1 Nacht incl. ontbijt voor 2 pers"
     - "Wellnessentree"
