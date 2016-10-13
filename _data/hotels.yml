@@ -1,17 +1,17 @@
 ---
-- title: Bilderberg Kasteel Vaalsbroek
+- title: Bilderberg Parkhotel
   location: Vaals
   tagline: 'SPROOKJESACHTIG 4-STERREN HOTEL '
-  image: vaalsbroek1.jpg
+  image: "/forestryio/images/ParkhotelTP.jpg"
   link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=244&country=1&la=2&autoLogin=true&actie=
   points:
   - 1 Nacht incl. ontbijt voor 2 pers
   - Fles champenoise
   - Wellnessentree + Gezichtsbehandeling
-- title: Bilderberg Hotel de Bilderberg
+- title: Bilderberg Hotel de Keizerskroon
   location: Oosterbeek
   tagline: NATUURLIJK SCHOON
-  image: bilderberg1.jpg
+  image: "/forestryio/images/KeizerskroonTP.jpg"
   link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=451&country=1&la=2&autoLogin=true&actie=
   points:
   - 2 Nachten incl. ontbijt voor 2 pers
@@ -26,28 +26,28 @@
   - 1 Nacht incl. ontbijt voor 2 pers
   - 4-Gangendiner voor 2 pers
   - Late check-out
-- title: Bilderberg résidence groot Heidenborgh
+- title: Bilderberg Hotel Speulderbos
   location: Garderen
   tagline: QUALITY TIME & ONTSPANNING
-  image: residence1.jpg
+  image: "/forestryio/images/SpeulderbosTP.jpg"
   link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=379&country=1&la=2&autoLogin=true&actie=
   points:
   - 2 Nachten incl. ontbijt voor 2 pers
   - Wellnessentree
   - Late check-out
-- title: Bilderberg Grand Hotel Wientjes
+- title: Bilderberg Hotel de Wolfheze
   location: Zwolle
   tagline: ONTDEK CENTRUM ZWOLLE
-  image: wientjes1.jpg
+  image: "/forestryio/images/WolfhezeTP.jpg"
   link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=361&country=1&la=2&autoLogin=true&actie=
   points:
   - 1 Nacht incl. ontbijt voor 2 pers
   - 3-Gangendiner voor 2 pers
   - Museumtickets
-- title: Bilderberg Langoed Lauswolt
+- title: Bilderberg Hotel de Buunderkamp
   location: Beetsterzwaag
   tagline: FRIESLAND OP Z'N BEST
-  image: lAUSWOLT1.jpg
+  image: "/forestryio/images/BuunderkampTP.jpg"
   link: http://www.luxuryhotelcompany.com/HotelDetail.aspx?hotelId=494&country=1&la=2&autoLogin=true&actie=
   points:
   - 1 Nacht incl. ontbijt voor 2 pers
